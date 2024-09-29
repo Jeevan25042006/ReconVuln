@@ -20,6 +20,11 @@ Requirements
 How to Use
 
 1. Clone the Repository: Use the following command to clone the repository to your local machine:
-https://github.com/Jeevan25042006/ReconVuln.git
-2.Run the script using the command 
+
+   https://github.com/Jeevan25042006/ReconVuln.git
+2.Run the script using the command
+
+     bash script.sh
+   
+    
    
